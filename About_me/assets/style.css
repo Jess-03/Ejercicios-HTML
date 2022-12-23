@@ -1,0 +1,41 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(72, 95, 138);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+.fotografia {
+    width: 200px;
+}
+
+h2 {
+    font-family: 'Sniglet', cursive;
+    font-size: 30px;
+    text-align: center;   
+}
+
+.subtitulos {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(77, 167, 4);
+}
+
+summary {
+    color: rgb(77, 167, 4);
+}
+
+.referencias {
+    text-decoration: none;
+    background-color: rgb(199, 233, 201);
+}
+
+.ciencia {
+    width: 200px;
+}
+
+.programacion {
+    width: 400px;
+}
