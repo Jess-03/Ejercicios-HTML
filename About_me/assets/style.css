@@ -27,6 +27,22 @@ summary {
     color: rgb(77, 167, 4);
 }
 
+table th {
+    text-align: center;
+    border: 2px solid rgb(85, 105, 143);
+    padding: 2px;
+}
+
+table td {
+    text-align: start;
+    border: 2px solid rgb(177, 191, 218);
+    padding: 2px;
+}
+
+
+
+
+
 .referencias {
     text-decoration: none;
     background-color: rgb(199, 233, 201);
